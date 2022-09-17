@@ -1,30 +1,28 @@
 <!-- ======= Header ======= -->
 <header id="header" class="fixed-top">
   <div class="container d-flex align-items-center">
-    <h1 class="logo me-auto"><a href="index.html">Mizar IT</a></h1>
+    <!--<h1 class="logo me-auto"><a href="index.html">Mizar IT</a></h1>-->
     <!-- Uncomment below if you prefer to use an image logo -->
-    <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+    <a href="index.html" class="logo me-auto"><img src="./assets/img/logo-black.png" alt="" class="img-fluid"></a>
 
     <nav id="navbar" class="navbar">
       <ul>
         <li class="nav-item" routerLinkActive="active">
-          <a class="nav-link scrollto" [routerLink]="'home'">Home</a></li>
+          <a class="nav-link scrollto" [routerLink]="'home'">Inicio</a></li>
         <li class="nav-item" routerLinkActive="active">
-          <a class="nav-link scrollto" [routerLink]="'about-us'">About Us</a></li>
-        <li class="nav-item" routerLinkActive="active">
-          <a class="nav-link scrollto" [routerLink]="'services-solutions'">Services</a></li>
+          <a class="nav-link scrollto" [routerLink]="'about-us'">Quienes Somos</a></li>
         <li class="nav-item dropdown">
-          <a href="#"><span>Services and Solutions</span> <i class="bi bi-chevron-down"></i></a>
+          <a href="#"><span>Servicios y soluciones</span> <i class="bi bi-chevron-down"></i></a>
           <ul>
-            <li><a href="#">Arquitectura Cloud</a></li>
-            <li><a href="#">Services on Database</a></li>
-            <li><a href="#">Desarrollo de Software y Pruebas de Calidad</a></li>
-            <li><a href="#">Devops CI/CD</a></li>
-            <li><a href="#">Metodologias Agiles</a></li>
+            <li><a [routerLink]="'/services-solutions/cloud-services'">Arquitectura Cloud</a></li>
+            <li><a [routerLink]="'/services-solutions/database-services'">Services on Database</a></li>
+            <li><a [routerLink]="'/services-solutions/development-quality'">Desarrollo de Software y Pruebas de Calidad</a></li>
+            <li><a [routerLink]="'/services-solutions/devops-services'">Devops CI/CD</a></li>
+            <li><a [routerLink]="'/services-solutions/agile-metodology'">Metodologias Agiles</a></li>
           </ul>
         </li>
         <li class="nav-item" routerLinkActive="active">
-          <a class="nav-link scrollto" href="#">Contact</a></li>
+          <a class="nav-link scrollto" href="#">Contactanos</a></li>
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
     </nav>

@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CloudServicesComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+    console.log("Pase por cloud Services");
+  }
 
   ngOnInit(): void {
+    console.log("Pase por cloud Services ngOn");
   }
 
 }

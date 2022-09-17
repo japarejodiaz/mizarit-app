@@ -1,0 +1,15 @@
+{
+  "section_title_contact": "Contactenos",
+  "section_subtitle_contact": "Para mas informacion puede contactarnos a traves de nuestro correo electronico o telefonicamente y a la brevedad le estaremos respondiendo a sus consultas",
+  "direccion_title": "Ubicacion:",
+  "direccion_content": "Avenida Luis Maria Campos 250, CP1426",
+  "email_title": "Email:",
+  "email_content": "e-services@mizar-it.com",
+  "phones_title": "Call:",
+  "phones_content": "+54 9 11 27567487",
+  "form_label_name": "Su nombre",
+  "form_label_correo": "Su correo",
+  "form_label_subject": "Asunto",
+  "form_label_message": "Mensaje",
+  "form_label_buttom": "Enviar Mensaje"
+}

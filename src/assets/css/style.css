@@ -127,11 +127,9 @@ h6 {
     transition: all 0.5s;
     z-index: 997;
     padding: 15px 0;
-    background: #37517e;
+  /*background: #37517e;*/
 }
 
-
-}
 #header.header-transparent {
     background: none;
 }
@@ -152,7 +150,7 @@ h6 {
     color: #fff;
 }
 #header .logo img {
-    max-height: 40px;
+    max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -265,7 +263,7 @@ h6 {
     .navbar .dropdown .dropdown ul {
         left: -90%;
     }
-    
+
     .navbar .dropdown .dropdown:hover>ul {
         left: -100%;
     }
@@ -289,7 +287,7 @@ h6 {
     .mobile-nav-toggle {
         display: block;
     }
-    
+
     .navbar ul {
         display: none;
     }
@@ -432,16 +430,16 @@ h6 {
         height: 100vh;
         text-align: center;
     }
-    
+
     #hero .animated {
         -webkit-animation: none;
         animation: none;
     }
-    
+
     #hero .hero-img {
         text-align: center;
     }
-    
+
     #hero .hero-img img {
         width: 50%;
     }
@@ -451,13 +449,13 @@ h6 {
         font-size: 28px;
         line-height: 36px;
     }
-    
+
     #hero h2 {
         font-size: 18px;
         line-height: 24px;
         margin-bottom: 30px;
     }
-    
+
     #hero .hero-img img {
         width: 70%;
     }
@@ -466,7 +464,7 @@ h6 {
     #hero .hero-img img {
         width: 80%;
     }
-    
+
     #hero .btn-get-started {
         font-size: 16px;
         padding: 10px 24px 11px 24px;
@@ -476,7 +474,7 @@ h6 {
     0% {
         transform: translateY(10px);
     }
-    
+
     100% {
         transform: translateY(-10px);
     }
@@ -485,7 +483,7 @@ h6 {
     0% {
         transform: translateY(10px);
     }
-    
+
     100% {
         transform: translateY(-10px);
     }
@@ -706,11 +704,11 @@ section {
     .why-us .img {
         min-height: 400px;
     }
-    
+
     .why-us .content {
         padding-top: 30px;
     }
-    
+
     .why-us .accordion-list {
         padding-bottom: 30px;
     }
@@ -1413,7 +1411,7 @@ section {
     0% {
         transform: rotate(0deg);
     }
-    
+
     100% {
         transform: rotate(360deg);
     }
@@ -1422,7 +1420,7 @@ section {
     0% {
         transform: rotate(0deg);
     }
-    
+
     100% {
         transform: rotate(360deg);
     }
@@ -1621,13 +1619,13 @@ section {
         padding-top: 20px;
         padding-bottom: 20px;
     }
-    
+
     #footer .copyright,
     #footer .credits {
         text-align: center;
         float: none;
     }
-    
+
     #footer .credits {
         padding-top: 4px;
     }

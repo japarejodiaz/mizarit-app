@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {InfoPageHomeService} from "../../services/info-page-home.service";
+import {InfoPageContactusService} from "../../services/info-page-contactus.service";
 
 @Component({
   selector: 'app-home',
@@ -8,7 +9,11 @@ import {InfoPageHomeService} from "../../services/info-page-home.service";
 })
 export class HomeComponent implements OnInit {
 
-  constructor( private infoTest: InfoPageHomeService ) { }
+  constructor( public infoTest: InfoPageHomeService,
+               public infoContact: InfoPageContactusService ) {
+
+    console.log("Se publica el resultado " + infoContact.contactUSInfo);
+  }
 
   ngOnInit(): void {
   }

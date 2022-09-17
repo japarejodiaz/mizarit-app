@@ -1,0 +1,36 @@
+{
+  "section_title_services": "Servicios y Soluciones",
+  "section_title_content": "Servicios y Soluciones",
+  "servicios_list": [
+    {
+      "servicios_info": [
+        {
+          "services_icon_info": "bx bxl-dribbble",
+          "services_href_info": "cloud-services",
+          "services_sub_title": "Arquitectura - Cloud",
+          "services_sub_content": "Desarrollamos e implementamos estrategias integrales para su negocio. Diseñamos entornos cloud, híbridos y multi-cloud que permitan una operación rápida, segura, precisa, escalable y flexible. "
+        },
+        {
+          "services_icon_info": "bx bxl-dribbble",
+          "services_href_info": "/services-solutions",
+          "services_sub_title": "Bases de Datos",
+          "services_sub_content": "Los datos son el activo más preciado que las empresas tienen y son la materia prima a partir de la cual pueden diseñarse, desarrollarse nuevos proyectos y la parte mas valiosa para la toma de decisiones."
+        },
+        {
+          "services_icon_info": "bx bxl-dribbble",
+          "services_href_info": "/services-solutions",
+          "services_sub_title": "Desarrollo de Software y Pruebas de Calidad",
+          "services_sub_content": "El desarrollo de software se refiere a un conjunto de actividades informáticas dedicadas al proceso de creación, diseño, despliegue y compatibilidad de software."
+        },
+        {
+          "services_icon_info": "bx bxl-dribbble",
+          "services_href_info": "/services-solutions",
+          "services_sub_title": "Devops CI/CD",
+          "services_sub_content": "Desarrollamos e implementamos estrategias integrales para su negocio. Diseñamos entornos cloud, híbridos y multi-cloud que permitan una operación rápida, segura, precisa, escalable y flexible. "
+        }
+      ]
+    }
+  ]
+}
+
+

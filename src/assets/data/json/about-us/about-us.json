@@ -1,17 +1,25 @@
 {
-  "seccion-title": "About US",
-  "row-one": "Somos una empresa de servicios",
-  "item-list": [
+  "section_title": "Quienes Somos",
+  "row_one": "Somos una empresa de tecnología que brinda servicios y soluciones en la nube y de software innovadoras, colocando en nuestra máxima prioridad la calidad y el ciclo de vida del software así como la eficiencia en su tiempo y costo. Nuestros valores: ",
+  "list_item": [
     {
-      "item": "contenido 1"
+      "item": "Integridad"
     },
     {
-      "item": "contenido 2"
+      "item": "Confianza"
     },
     {
-      "item": "contenido 3"
+      "item": "Compromiso"
+    },
+    {
+      "item": "Respeto"
+    },
+    {
+      "item": "Liderazgo"
     }
   ],
-  "row-two": "Nuestras caracteristicas mas importantes",
-  "row-learn": "Aprende mas de nosotros"
+  "row_two": "En Mizar IT ayudamos a implementar soluciones tecnológicas en organizaciones de diversos tamaños e industrias.\nCon profesionales ágiles y altamente capacitados nos adaptamos a las necesidades de las empresas y a los diferentes cambios que va implementando el mercado IT.",
+  "row_learn": "Aprende mas de nosotros"
 }
+
+

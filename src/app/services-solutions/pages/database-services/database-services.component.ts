@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DatabaseServicesComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+    console.log("Pase por base de datos Services");
+  }
 
   ngOnInit(): void {
+    console.log("Pase por base de datos ngOn");
   }
 
 }

@@ -1,0 +1,99 @@
+{
+  "section_title_footer_col_1": "Ubicaciones",
+  "direccion_info": [
+    {
+      "direccion": "Buenos Aires - Argentina"
+    },
+    {
+      "direccion": "Caracas - Venezuela"
+    },
+    {
+      "direccion": "Montevideo - Uruguay"
+    }
+  ],
+  "contact_phone": "+54 9 11 2756 7487",
+  "contact_email": "e-services@mizar-it.com",
+  "section_title_footer_col_2": "Nuestros Enlaces",
+  "our_links": [
+    {
+      "title_enlace": "Inicio",
+      "href_enlace": "dashboard"
+    },
+    {
+      "title_enlace": "Quienes Somos",
+      "href_enlace": "ancla 1"
+    },
+    {
+      "title_enlace": "Servicios y Soluciones",
+      "href_enlace": "ancla 2"
+    },
+    {
+      "title_enlace": "Contactenos",
+      "href_enlace": "ancla 3"
+    },
+    {
+      "title_enlace": "Terminos del Servicio",
+      "href_enlace": "enlaceT"
+    },
+    {
+      "title_enlace": "Politicas de Privacidad",
+      "href_enlace": "enlacep"
+    }
+  ],
+  "section_title_footer_col_3": "Servicios y Soluciones",
+  "our_services": [
+    {
+      "title_enlace": "Arquitectura Cloud",
+      "href_enlace": "dashboard"
+    },
+    {
+      "title_enlace": "Servicios sobre Base de Datos",
+      "href_enlace": "ancla 1"
+    },
+    {
+      "title_enlace": "Desarrollo de Soluciones",
+      "href_enlace": "ancla 2"
+    },
+    {
+      "title_enlace": "Pruebas de Calidad",
+      "href_enlace": "ancla 2"
+    },
+    {
+      "title_enlace": "Devops CI/CD",
+      "href_enlace": "ancla 3"
+    },
+    {
+      "title_enlace": "Metodologias Agiles",
+      "href_enlace": "enlaceT"
+    },
+    {
+      "title_enlace": "Politicas de Privacidad",
+      "href_enlace": "enlacep"
+    }
+  ],
+  "section_title_footer_col_4": "Nuestras Redes",
+  "section_title_content_col_4": "Puede ver y consultar a traves de nuestras redes sociales",
+  "our_networks": [
+    {
+      "title_enlace": "Arquitectura Cloud",
+      "href_enlace": "dashboard"
+    },
+    {
+      "title_enlace": "Base de Datos",
+      "href_enlace": "ancla 1"
+    },
+    {
+      "title_enlace": "Desarrollo de Soluciones",
+      "href_enlace": "ancla 2"
+    },
+    {
+      "title_enlace": "Pruebas de Calidad",
+      "href_enlace": "ancla 2"
+    },
+    {
+      "title_enlace": "Linkedin",
+      "href_enlace": "https://www.linkedin.com/company/mizar-it/"
+    }
+
+  ]
+}
